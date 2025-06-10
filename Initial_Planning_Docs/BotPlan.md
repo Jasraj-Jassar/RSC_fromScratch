@@ -12,6 +12,12 @@ Both the bots will have Esp32 which connects them to Server Running ROS (Underne
 Design the bots in such a way so the ball stays easy to steal, keeping matches exciting.
 Avoid claws or U-shaped grippers—they trap the ball and slow the action.
 
+Shallow concave bumper	- Front bumper is curved to match the ball but ends before the ball’s mid-line (≤ 60 ° arc).
+there will be a piston type kick mechanism in the centre of the arc so it can hit the ball in the centre.
+
+Piston Mechanism
+It will be a spring mech that can be pulled back and realeased. using a small servo motor.
+
 The Server will have 3 processes parallel to each other 
 
 1st Process:
