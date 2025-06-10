@@ -9,6 +9,9 @@ Both the Bots will be clones (Prevent unfair advantages of wait or extra compone
 
 Both the bots will have Esp32 which connects them to Server Running ROS (Underneath the table)
 
+Design the bots in such a way so the ball stays easy to steal, keeping matches exciting.
+Avoid claws or U-shaped grippers—they trap the ball and slow the action.
+
 The Server will have 3 processes parallel to each other 
 
 1st Process:
