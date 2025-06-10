@@ -16,7 +16,11 @@ Shallow concave bumper	- Front bumper is curved to match the ball but ends befor
 there will be a piston type kick mechanism in the centre of the arc so it can hit the ball in the centre.
 
 Piston Mechanism
-It will be a spring mech that can be pulled back and realeased. using a small servo motor.
+It will be a spring mech that can be pulled back and realeased, using a small motor.
+
+There will be a sensor to detect if the piston is realeased or back (LimitSwitch)
+To make it easier the robot will have in-build local program that will make sure piston is alway loaded and when we 
+press the RT button of the controller it kicks and restore back.
 
 The Server will have 3 processes parallel to each other 
 
